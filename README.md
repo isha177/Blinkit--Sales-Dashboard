@@ -1,2 +1,4 @@
 # Blinkit--Sales-Dashboard
-Sales analysis of BlinkIT grocery data — data cleaning, KPI tracking &amp; interactive dashboard using Python, SQL, and Power BI.
+End-to-end sales analysis of BlinkIT grocery data using Python, SQL, and Power BI — includes data cleaning, KPI tracking, and an interactive dashboard.
+
+

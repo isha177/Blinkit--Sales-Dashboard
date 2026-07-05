@@ -120,7 +120,3 @@ DAX measures created: Total Sales, Average Sales, No. of Items, Average Rating.
 This project was built as a structured, guided learning exercise to practice the full Data Analytics workflow (Python → SQL → Power BI). The core data cleaning, exploratory analysis, and final insights reflect my own hands-on work on the dataset.
 
 ---
-
-## 🔗 Connect
-
-If you found this project useful, feel free to explore the repository and connect with me.

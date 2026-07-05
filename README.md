@@ -89,7 +89,7 @@ DAX measures created: Total Sales, Average Sales, No. of Items, Average Rating.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot)
 
 ---
 

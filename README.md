@@ -34,7 +34,7 @@ The dataset contains **8,523 records** across **12 fields**, including:
 
 | Technology | Purpose |
 |---|---|
-| Python (Pandas, Matplotlib, Seaborn) | Data Cleaning & Exploratory Analysis |
+| Python (Pandas, Matplotlib) | Data Cleaning & Exploratory Analysis |
 | SQL | Business Query Analysis |
 | Power BI | Dashboard Development |
 | DAX | KPI & Measure Creation |
